@@ -18,6 +18,8 @@
  - [React Loading Icons](https://loading.damiankress.de/?path=/story/sam-herbert-bars--demo)
  - [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js/)
  - [@tanem/react-nprogress](https://github.com/tanem/react-nprogress#readme)
+ - [@loadable/component](https://github.com/gregberge/loadable-components#readme)
+ - [react-loadable](https://github.com/jamiebuilds/react-loadable#readme)
 
 
 ## Image
