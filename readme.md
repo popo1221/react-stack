@@ -16,6 +16,7 @@
  - [react-topbar-progress-indicator](https://github.com/MoOx/react-topbar-progress-indicator#readme)
  - [react-block-ui](https://availity.github.io/react-block-ui/)
  - [React Loading Icons](https://loading.damiankress.de/?path=/story/sam-herbert-bars--demo)
+ - [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js/)
 
 ## Image
  - [React Image](https://github.com/mbrevda/react-image#readme)
