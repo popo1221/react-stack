@@ -17,6 +17,8 @@
  - [react-block-ui](https://availity.github.io/react-block-ui/)
  - [React Loading Icons](https://loading.damiankress.de/?path=/story/sam-herbert-bars--demo)
  - [progressbar.js](https://kimmobrunfeldt.github.io/progressbar.js/)
+ - [@tanem/react-nprogress](https://github.com/tanem/react-nprogress#readme)
+
 
 ## Image
  - [React Image](https://github.com/mbrevda/react-image#readme)
