@@ -29,3 +29,4 @@
  - [react-intersection-observer](https://react-intersection-observer.vercel.app/)
  - [react-error-boundary](https://www.npmjs.com/package/react-error-boundary)
  - [use-error-boundary](https://github.com/JoschuaSchneider/use-error-boundary#readme)
+ - [material-ui-confirm](https://github.com/jonatanklosko/material-ui-confirm)
