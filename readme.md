@@ -1,6 +1,6 @@
-# React生态库
+# React
 
-## UI库
+## UI Libs
   - [Antd](https://ant.design/index-cn)
   - [MATERIAL-UI](https://material-ui.com/)
 
@@ -34,5 +34,14 @@
 
 ## React Admin
  - [react-admin](https://marmelab.com/react-admin/Readme.html)
+
+## PDF
+ - [react-pdf](https://github.com/wojtekmaj/react-pdf)
+
+
+## Cavnas
+ - [html2canvas](https://html2canvas.hertzen.com/)
+ 
+
 
 
